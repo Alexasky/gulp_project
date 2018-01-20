@@ -1,7 +1,5 @@
 /node_modules/
-/dest/
 /.git/
-/app/css/
 /**/*.psd
 /**/Thumbs.db
 /**/.DS_Store
